@@ -1,0 +1,5 @@
+Product,Category,Price,Stock
+Laptop,Electronics,55000,10
+Mouse,Accessories,800,25
+Keyboard,Accessories,1500,15
+Headphones,Electronics,2500,20
